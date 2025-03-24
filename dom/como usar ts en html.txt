@@ -1,5 +1,8 @@
 -- instalar typescript: npm install -g typescript
+
 -- tsc nombreDelDocumento.ts (esto creara una version .js del archivo y es la que tendra que poner en el src del script en el html)
+
 -- para no andar haciendo una y otra vez tsc nombreDelDocumento.ts PUEDE USAR
    tsc --watch dom.ts
+   
 -- para salir de ese modo usa: Control + c
